@@ -12,10 +12,11 @@ Logistic Regression, Random Forest, Decision Tree
 Accuracy and confusion matrix for evaluation
  Dataset
 Source: Kaggle Titanic Dataset
+
+
 2. Iris Species Classification
  Project Overview
 This beginner-friendly project classifies iris flowers into one of three species—Setosa, Versicolor, and Virginica—based on sepal and petal dimensions. It's a classic multiclass classification task widely used for learning supervised learning models.
-
 Techniques Used
 Data visualization with Seaborn and Matplotlib
 Label encoding
@@ -24,6 +25,8 @@ Classification using Logistic Regression, KNN, and SVM
 Accuracy score and classification report
 Dataset
 Source: Kaggle IRIS Dataset
+
+
 3.Sales Prediction with Advertising Data
  Project Overview
 This project predicts product sales based on advertising spend across TV, radio, and newspapers. It's a regression task that helps businesses make data-driven marketing decisions by analyzing the impact of different advertising channels.
